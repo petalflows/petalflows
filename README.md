@@ -52,7 +52,7 @@
 
 ### 🏆 Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=petalflows&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=petalflows&theme=onedark&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
