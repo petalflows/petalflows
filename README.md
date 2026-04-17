@@ -50,14 +50,10 @@
 
 ---
 
-### 🏆 Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=petalflows&theme=onedark&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
----
-
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sitibungarohiyatunnufus/)
+<a href="https://www.linkedin.com/in/sitibungarohiyatunnufus/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=100&section=footer)
