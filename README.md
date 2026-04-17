@@ -10,6 +10,13 @@
 </p>
 
 ---
+
+### 🔥 Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petalflows&theme=react&card_width=470&hide_border=true)
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petalflows&theme=react&card_width=470)
 ####
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=petalflows&theme=react-dark)
