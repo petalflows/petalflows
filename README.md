@@ -2,6 +2,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=petalflows&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petalflows&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
+
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petalflows&theme=react&card_width=470)
 ####
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=petalflows&theme=react-dark)
