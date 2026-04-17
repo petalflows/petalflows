@@ -1,3 +1,8 @@
+# Hi there! I'm Bunga 👋
+**Data Analyst**
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petalflows&theme=react&card_width=470)
 ####
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=petalflows&theme=react-dark)
