@@ -17,9 +17,11 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petalflows&theme=react&card_width=470)
-####
+### 📈 Activity Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=petalflows&theme=react-dark)
+
+---
 
 ### 🛠️ Tech Stack
 **Languages:**
@@ -45,3 +47,17 @@
 
 ### 📫 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)https://www.linkedin.com/in/sitibungarohiyatunnufus/
+
+---
+
+### 🏆 Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=petalflows&theme=onedark)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sitibungarohiyatunnufus/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=100&section=footer)
