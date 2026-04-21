@@ -50,7 +50,7 @@
 ### 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/sitibungarohiyatunnufus/">
-  <img src="https://img.shields.io/badge/LinkedIn-Siti%20Bunga%20Rohiyatunnufus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Siti%20Bunga%20Rohiyatun%20Nufus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=100&section=footer)
