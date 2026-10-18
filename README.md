@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=Hi,%20I'm%20Bunga%20👋&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20·%20Indonesia%20🇮🇩&descSize=16&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=Hi,%20I'm%20Bunga%20👋&fontSize=42&fontColor=ffffff&desc=Commercial%20Data%20Strategy%20and%20Insight%20%7C%20Data%20Analyst%20·%20Indonesia%20🇮🇩&descSize=16&descAlignY=75&animation=fadeIn)
 
 ---
 
